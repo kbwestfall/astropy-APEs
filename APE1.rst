@@ -167,7 +167,7 @@ If needed, editors should continue to stress that discussions about the substanc
 should be kept on the mailing list as much as possible.
 
 Once the discussion period has ended, the APE editor should send another e-mail to
-astropy-dev acknwledging any changes to the APE and clarifying that the discussion is closed
+astropy-dev acknowledging any changes to the APE and clarifying that the discussion is closed
 and awaiting Coordination Committee review.
 
 APE Review
